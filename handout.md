@@ -17,7 +17,7 @@ frei“ .* Wissenschaft ist trotzdem mit Verantwortung verbunden. Die Forschung 
 
 Die Forschungsintegrität befasst sich mit Themen wie Ehrlichkeit und Verlässlichkeit von Forschungen währenddessen sich die Forschungsethik mit den Bereichen die die Forschung beeinflusst beschäftigt.
 
-Laut dem [The European Code of Conduct for Research Integrity](https://www.ria.ie/sites/default/files/allea_-_european_code_of_conduct_for_research_integrity_2017_0.pdf) 2017 der ALLEA (All European Academies) sind die vier Grundprinzipien:
+Laut dem [The European Code of Conduct for Research Integrity](https://www.ria.ie/sites/default/files/allea_-_european_code_of_conduct_for_research_integrity_2017_0.pdf) 2017 der ALLEA (All European Academies) sind die vier Grundprinzipien der Integrität:
 
 - **Zuverlässigkeit (Reliability)**
 

@@ -3,7 +3,8 @@ This is short work and a presentation for the topic Sustainability and quality c
 
 ## Compile the presentation
 ### Marp CLI
+```Bash
 marp -w --theme ./dracula/dracula.css ./slides.md 
-
+```
 ---
 See: https://github.com/marp-team/marp

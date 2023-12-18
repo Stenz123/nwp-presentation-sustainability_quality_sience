@@ -1,11 +1,119 @@
-# Hanoout: Nachhaltigkeit und Qualitätskritärien in den Naturwissenschaften, Ethnische regeln
+# Handout: Nachhaltigkeit und Qualitätskritärien in den Naturwissenschaften, Ethnische regeln
 
 ---
 
-Bereich Jakob
+# Qualitätskriterien des naturwissenschaftlichen Arbeitens
+## **Objektivität**
 
-## Qualitätskriterien des naturwissenschaftlichen Arbeitens
+Eine wissenschaftliche Arbeit muss Objektiv sein. Im Laufe der Zeit haben sich einige **Gütekriterien** entwickelt, mit denen die Qualität wissenschaftlicher Messungen, Messinstrumente und Forschungsergebnisse eingeschätzt werden kann.
 
+Eines dieser Gütekriterien ist die Objektivität, die folgendermaßen definiert ist:
+
+> **Das Gütekriterium Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.**
+>
+
+Was bedeutet diese Definition konkret, welche Arten von Objektivität gibt es?
+
+In der Wissenschaft bezieht sich der Begriff "Objektivität" darauf, dass Forscher versuchen, ihre persönlichen Meinungen, Gefühle und Voreingenommenheiten so weit wie möglich aus ihrer Arbeit zu vermeiden, um zu verhindern, dass diese ihre Schlussfolgerungen und Ergebnisse beeinflussen. Das bedeutet, dass wissenschaftliche Untersuchungen und Beobachtungen unabhängig von individuellen Überzeugungen oder Standpunkten der jeweiligen Forscher sein sollen.
+
+Um das zu erreichen, verwenden Wissenschaftler strenge Methoden, klare Protokolle und versuchen, ihre Forschung so zu gestalten, dass andere unabhängige Forscher zu ähnlichen Ergebnissen gelangen könnten. Durch die Anwendung von objektiven Standards und Messungen wird versucht, eine gewisse Neutralität und Zuverlässigkeit in der wissenschaftlichen Erkenntnis zu erhalten.
+
+Ein einfaches Beispiel könnte sein, wenn zwei Wissenschaftler denselben Versuch durchführen und zu denselben Ergebnissen gelangen, unabhängig von ihren persönlichen Überzeugungen oder Meinungen. Dies würde als objektive Forschung gelten, da die Resultate unabhängig von den individuellen Standpunkten der Forscher sind. Objektivität in der Wissenschaft ist also das Streben nach einer möglichst unvoreingenommenen, fairen und nachvollziehbaren Herangehensweise an Forschung und Experimente.
+
+Fehlende Objektivität kann sich aber auch sprachlich ausdrücken.
+Dies zeigt sich insbesondere an der in vielen Uni-Seminaren kontrovers diskutierten Frage, inwieweit ein Ich-Bezug in wissenschaftlichen Arbeiten erlaubt ist.
+
+Klar ist, dass eine Selbstreferenz mit Bedacht gewählt werden muss.
+Sätze wie „Ich finde …“, „nach Auffassung des Autors …“ oder „Meiner Meinung nach …“ lassen auf eine fehlende Objektivität schließen.
+Gleiches gilt für eine emotionale Sprache. Ziel einer Arbeit ist nicht, den Leser von der eigenen moralischen Haltung zu überzeugen. Sätze wie „diese grausamen und abscheulichen Taten …“, „der brutale und gewissenlose Täter“ etc. sind für wissenschaftliche Arbeiten ungeeignet.
+
+## Nachvollziehbarkeit
+
+Die Nachvollziehbarkeit stellt sicher, dass sich die Inhalte und Verfahren einer wissenschaftlichen Arbeit für andere Person nicht zu schwer zum verstehen sind.
+Das bedeutet, dass bei einer wissenschaftlichen Arbeit systematisch-methodisch vorgegangen werden muss.
+Dabei muss die (geplante und organisierte) methodische Vorgehensweise klar
+beschrieben werden, um für den Leser nachvollziehbar und überprüfbar zu sein.
+Das ist wichtig, denn andere müssen auf dem gleichen Weg zu den gleichen wissen-
+schaftlichen Aussagen kommen.
+
+Nur wenn die Nachvollziehbarkeit der Argumentation sich erschließt, kann die Arbeit vom Leser/ Gutachter verstanden und angemessen bewertet werden
+
+## Verständlichkeit
+
+Verständlichkeit ist ein Grundsatz wissenschaftlichen Arbeitens, damit eine Arbeit von anderen gelesen, verstanden und überprüft werden kann. Verständlichkeit bezieht sich zunächst auf Sprache.
+Der sprachliche Ausdruck sollte klar und präzise sein, mehrdeutige
+Begriffe müssen definiert werden, der Text sorgfältig auf mögliche
+Rechtschreib- und Grammatikfehler überprüft werden und die Sätze sollten
+kurz und prägnant sein.
+
+Die Verständlichkeit bezieht sich natürlich auch auf die **inhaltliche Struktur** der Arbeit.
+Entscheidend ist hier, dass ein klarer „roter Faden“ erkennbar ist. D.h., zu Beginn der Arbeit wird eine Fragestellung aufgeworfen, die zielstrebig bearbeitet und am Ende der Arbeit
+beantwortet wird.
+Sowohl die Argumentation als auch die formale Gliederung der Arbeit sollten auf dieses Ziel hin ausgerichtet sein und der Aufbau logisch und nachvollziehbar vom Allgemeinen zum
+Speziellen führen.
+
+Das Gütekriterium „Verständlichkeit“ bezieht sich schließlich auch auf die **formalen Gestaltungsvorgaben** für wissenschaftliche Arbeiten, wie beispielsweise das numerieren der Seiten, Layouts, sowie ein Deckblattm genau so wie ein Inhalts- oder ein Literaturverzeichnis und vieles mehr.
+
+## Überprüfbarkeit
+
+Um die Überprüfbarkeit einer Arbeit zu gewährleisten, müssen Hypothesen begründet
+und wissenschaftliche, beweisbare Gründe für das eigene Vorgehen und die gezogenen Schlüsse
+genannt werden.
+Das Vorgehen bei der Erstellung der Arbeit (dies gilt auch für Experimente und
+Versuche) muss verständlich und nachvollziehbar beschrieben werden.
+Es muss sichergestellt sein, dass alle verwendeten Daten mit angegeben und erläutert werden.
+
+Es ist erforderlich, dass eine wissenschaftliche Arbeit für alle Leser transparent ist, d.h. alle verwendeten Quellen ordnungsgemäß benannt und die Forschungsmethode beschrieben wurden.
+Zudem muss die Darstellung der eigenen Ergebnisse sprachlich präzise und in den Argumentation nachvollziehbar erfolgen.
+
+Wichtig: Jedes Ergebnis muss überprüfbar sein, sonst ist es nicht wissenschaftlich!
+
+## Reliabilität
+
+Die Reliabilität ist ein wichtiges Qualitätskriterium in der (natur-)wissenschaftlichen Forschung. Sie bezieht sich auf die Zuverlässigkeit und Stabilität von Messungen oder Beobachtungen. Eine zuverlässige Messung oder Beobachtung ist eine, die konsistente und wiederholbare Ergebnisse liefert.
+
+In anderen Worten bedeutet Reliabilität, dass, wenn man eine Messung mehrmals durchführt oder dieselbe Beobachtung unter ähnlichen Bedingungen wiederholt, man zu vergleichbaren Resultaten kommen sollte. Wenn eine Messmethode oder ein Experiment als reliabel betrachtet wird, können Forscher darauf vertrauen, dass die Ergebnisse nicht auf zufällige Schwankungen oder Fehler zurückzuführen sind.
+
+Die Sicherstellung der Reliabilität ist entscheidend, damit wissenschaftliche Erkenntnisse auf stabilen und verlässlichen Daten beruhen. Wenn Messungen nicht zuverlässig sind, kann es zu fehlerhaften Schlussfolgerungen kommen und die Gültigkeit der gesamten Forschung beeinträchtigen.
+Daher ist eine Überprüfung und Dokumentation der Reliabilität ein wesentlicher Schritt in der wissenschaftlichen Forschung.
+
+## Validierung
+
+Eine Validierung bezieht sich darauf, ob eine Methode bzw. ein Experiment das misst, was es auch wirklich messen soll. Mit anderen Worten, es prüft die Genauigkeit und Richtigkeit einer Messung oder eines Tests.
+Eine valide Methode liefert Ergebnisse, die wirklich das erfassen, was der Forscher zu untersuchen beabsichtigt, und nicht etwas anderes.
+
+Die Validierung ist von entscheidender Bedeutung, um sicherzustellen, dass die gewonnenen Daten zuverlässig sind und korrekte Schlussfolgerungen ermöglichen. Wenn eine Methode nicht valide ist, könnten die Ergebnisse verzerrt oder ungenau sein, was die Glaubwürdigkeit und Aussagekraft der wissenschaftlichen Arbeit beeinträchtigen würde. Daher ist die Überprüfung und Dokumentation der Validität ein wesentlicher Bestandteil der guten wissenschaftlichen Praxis.
+
+## Logische Argumentation
+
+Logisch richtig zu argumentieren bedeutet: folgerichtig zu denken, die eigenen Argumente ausreichend zu begründen und korrekte Schlussfolgerungen zu ziehen. Durch die Überprüfung der
+Argumente gelingt es, Fehlschlüsse zu erkennen.
+Wenn Sie eine wissenschaftliche Arbeit schreiben, sollten Sie aussagekräftige und überprüfbare Gründe für Ihre Argumente anführen.
+Jedoch Vorsicht: Was im ersten Moment logisch klingt, muss nicht logisch sein.
+
+## Verantwortung
+
+Wer wissenschaftlich arbeitet, ist verantwortlich für die Inhalte seiner Arbeiten. Fahrlässige Fehler oder gar bewusste Täuschungen und ungerechtfertigte »Datenanpassungen« verursachen Schäden: Es erfordert oft wochenlange Prüfungen, bis Fehler und Manipulationen nachgewiesen werden. Andere Menschen, die ihre Arbeiten in der Zwischenzeit auf erfundenen Daten aufbauen, verschwenden ihre Kraft und ihre Zeit. Je nachdem, für welche Zwecke die manipulierten Ergebnisse nutzbar gemacht werden, kann es zu massiven Folgeschäden kommen.
+Der Einzelne und auch ganze Teams werden dafür zur Rechenschaft gezogen. Abschlusszertifikate, Auszeichnungen und Doktortitel werden aberkannt und müssen zurückgegeben werden.
+Aber auch die Folgen korrekter wissenschaftlicher Erkenntnisse sollten Forscher im Auge behalten und vor möglichen Gefahren rechtzeitig warnen.
+
+- Quellen
+
+  https://soztheo.de/forschung/qualitaetskriterien-fuer-wissenschaftliches-arbeiten/#qualitaetskriterium_objektivitaet
+
+  https://wpgs.de/fachtexte/ergebnisinterpretation/objektivitaet-als-guetekriterium/#Definition_von_Objektivitaet
+
+  https://www.apollon-hochschulverlag.de/wp-content/uploads/2018/10/Leseprobe_MB06_DettmannBense.pdf
+
+  [https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_Überprüfbarkeit.pdf](https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_%C3%9Cberpr%C3%BCfbarkeit.pdf)
+
+  [https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_Überprüfbarkeit.pdf](https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_%C3%9Cberpr%C3%BCfbarkeit.pdf)
+
+  https://studyflix.de/statistik/reliabilitat-1515
+
+  https://www.static.tu.berlin/fileadmin/www/10002431/PDF_Studium_Lehre/Qualitaetskriterien_wissenschaftliche_Arbeiten_.pdf
+
+  https://www.wiwi.europa-uni.de/de/lehrstuhl/mm/ima/_pdf/Leitfaden-Abschlussarbeiten-LS-IMA_Stand-18_4.pdf
 ---
 
 # Integrität und Ethik in der Wissenschaft

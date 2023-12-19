@@ -1,5 +1,4 @@
 # Handout: Nachhaltigkeit und Qualitätskritärien in den Naturwissenschaften, Ethnische regeln
-
 ---
 
 # Qualitätskriterien des naturwissenschaftlichen Arbeitens

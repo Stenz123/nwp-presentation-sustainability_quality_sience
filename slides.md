@@ -7,7 +7,6 @@ paginate: true
 marp: true
 size: 4K
 ---
-
 # NWP-Nachhaltigkeit-Qualität-Ethik
 
 Mayerhuber | Schlager | Stenz

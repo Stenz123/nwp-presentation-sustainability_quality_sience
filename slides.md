@@ -22,7 +22,7 @@ h1 {
 
 ## Nachhaltigkeit Allgemein
 
-- **Nachhaltigkeit** ist ein Handlungsprinzip zur Ressourcen-Nutzung, bei dem die Bewahrung der wesentlichen Eigenschaften, der Stabilität und der natürlichen Regenerationsfähigkeit des jeweiligen Systems im Vordergrund steht.
+- **Nachhaltigkeit** ist ein Handlungsprinzip zur Ressourcen-Nutzung, bei der Stabilität und der natürlichen Regenerationsfähigkeit des jeweiligen Systems im Vordergrund steht. <!-- Ein System ist zum Beispiel die Umwelt oder das Klima-->
 
 - **Beispiele**:
   - **Mehrweg statt PET** <!--es wird weniger Plastik verwendet und somit weniger Müll produziert -
@@ -36,9 +36,9 @@ h1 {
 - **Nachhaltigkeit** in der Wissenschaft bedeutet, dass die Forschung und Entwicklung von Technologien und Produkten so gestaltet wird, dass sie die Umwelt und die Gesellschaft nicht schädigt.
 
 - **Projekte**:
-  - **KuRT** <!--KuRT steht für Ressourceneffiziente Kreislaufwirtschaft und befassen sich mit Kunststoffrecyclingtechnologien wie Sotierlösungen, verbesserte Sammlung und Logistik und die Erhöhung der Umweltverträglichkeit der Verfahren -->
-  - **SUSFERT** <!--Nachhaltige Düngemittel aus Klärschlammasche und Abfallprodukten von Bioraffinerien-->
-  - **GNoME** <!-- Ist eine Google Ai die neue Cristal Strukturen generiert. Hat bis jetzt 2.2 neue Strukturen gefunden (380.000 sind stabil). Mensch und Computer haben insgesamt 68.000 stabile Strukturen gefunden -->
+  - **KuRT** <!--KuRT steht für Kunststoffrecyclingtechnologien und befassen sich mit Ressourceneffiziente Kreislaufwirtschaft wie Sotierlösungen, verbesserte Sammlung und Logistik und die Erhöhung der Umweltverträglichkeit der Verfahren -->
+  - **SUSFERT** <!--Nachhaltige, multifunktionale Düngemittel fürdie Versorgung von Pflanzen mit Phosphaten und Eisen. Wird aus Klärschlammasche und Abfallprodukten von Bioraffinerien hergestellt.-->
+  - **GNoME** <!-- Ist eine Google Ai die neue Kristallstrukturen generiert. Kristallstrukturen sind in diesem Fall wie neue Materialien. Hat bis jetzt 2.2 Mio. neue Strukturen gefunden (380.000 sind stabil). Mensch und Computer haben insgesamt 68.000 stabile Strukturen gefunden -->
 
 ---
 

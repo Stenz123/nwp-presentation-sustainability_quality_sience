@@ -25,7 +25,7 @@ h1 {
 - **Nachhaltigkeit** ist ein Handlungsprinzip zur Ressourcen-Nutzung, bei der Stabilität und der natürlichen Regenerationsfähigkeit des jeweiligen Systems im Vordergrund steht. <!-- Ein System ist zum Beispiel die Umwelt oder das Klima-->
 
 - **Beispiele**:
-  - **Mehrweg statt PET** <!--es wird weniger Plastik verwendet und somit weniger Müll produziert -
+  - **Mehrweg statt PET** <!--es wird weniger Plastik verwendet und somit weniger Müll produziert -->
   - **PV-Strom** <!--Strom aus erneuerbaren Energien ist nachhaltiger als Strom aus fossilen Energieträgern -->
   - **Second Hand** <!--Kleidung aus Second Hand Läden ist nachhaltiger als neue Kleidung und Fast Fashion-->
 
@@ -48,34 +48,32 @@ h1 {
 ---
 ## Objektivität
 - Definition
+<!--Objektivität, die folgendermaßen definiert ist:-->
+ **Das Gütekriterium Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.**
+
   - Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.
+  <!--Forscher probieren unabhängig von, ihre persönlichen Meinungen, Gefühle und Voreingenommenheiten zu vermeiden -->
 
 - So gut wie möglich:
   - persönliche Meinung,
   - Gefühle &
   - Voreingenommenheit vermeiden
-
-
-<!--Objektivität, die folgendermaßen definiert ist:
- **Das Gütekriterium Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.**
-
-In der Wissenschaft bezieht sich die "Objektivität" darauf, dass Forscher versuchen, ihre persönlichen Meinungen, Gefühle und Voreingenommenheiten so weit wie möglich aus ihrer Arbeit zu vermeiden, um zu verhindern, dass diese ihre Schlussfolgerungen und Ergebnisse beeinflussen. Das bedeutet, dass wissenschaftliche Untersuchungen und Beobachtungen unabhängig von individuellen Überzeugungen oder Standpunkten der jeweiligen Forscher sein sollen.
-
-Um das zu erreichen, verwenden Wissenschaftler strenge Methoden, klare Protokolle und versuchen, ihre Forschung so zu gestalten, dass andere unabhängige Forscher zu ähnlichen Ergebnissen gelangen könnten. Durch die Anwendung von objektiven Standards und Messungen wird versucht, eine gewisse Neutralität und Zuverlässigkeit in der wissenschaftlichen Erkenntnis zu erhalten.
+  <!--verhindert Schlussfolgerungen und Ergebnisse beeinflussen
+      unabhängig von individuellen Überzeugungen oder Standpunkten
+  -->
+<!--
+ zu erreichen, verwenden Wissenschaftler strenge Methoden, klare Protokolle -> andere unabhängige Forscher zu ähnlichen Ergebnissen gelangen können. 
+  Anwendung von objektiven Standards und Messungen, eine gewisse Neutralität und Zuverlässigkeit Erkenntnis zu erhalten.
 -->
 ---
 ## Nachvollziehbarkeit
-- Klar beschriebene methodische Vorgehensweise
+<!--Inhalte und Verfahren für andere Person nicht zu schwer zum verstehe-->
+<!--muss systematisch-methodisch vorgegangen werden -->
+- Klar beschriebene methodische Vorgehensweise <!-- um für den Leser nachvollziehbar und überprüfbar zu sein -->
 - Andere müssen wissenschaftliche Aussagen nachvollziehen können
 - Ermöglicht Verständnis und angemessene Bewertungen
+<!--andere müssen auf dem gleichen Weg zu den gleichen wissenschaftlichen Aussagen kommen-->
 
-<!--
-stellt sicher, dass sich die Inhalte und Verfahren einer wissenschaftlichen Arbeit für andere Person nicht zu schwer zum verstehen sind. 
-Das bedeutet, dass bei einer wissenschaftlichen Arbeit systematisch-methodisch vorgegangen werden muss.
-Dabei muss die (geplante und organisierte) methodische Vorgehensweise klar
-beschrieben werden, um für den Leser nachvollziehbar und überprüfbar zu sein.
-Das ist wichtig, denn andere müssen auf dem gleichen Weg zu den gleichen wissenschaftlichen Aussagen kommen.
--->
 ---
 ## Verständlichkeit
 - Ermöglicht Lesen, Verstehen und Überprüfen
@@ -105,76 +103,51 @@ Das ist wichtig, denn andere müssen auf dem gleichen Weg zu den gleichen wissen
 ---
 ## Überprüfbarkeit
 - Essenzielles Element wissenschaftlicher Arbeit
-- Begründen von Hypothesen 
+- Begründen von Hypothesen <!--Nachvollziehbare Argumentation.-->
 - Klare, wissenschaftliche Gründe für Vorgehen
 - Datenangaben
 
 <!-- 
-Essenzielles Element wissenschaftlicher Arbeit
-Begründen von Hypothesen 
-Klare, wissenschaftliche Gründe für Vorgehen
-Datenangaben
-Präzise Darstellung der eigenen Ergebnisse.
-Nachvollziehbare Argumentation.
 Wichtigkeit der Überprüfbarkeit:
 Jedes Ergebnis muss überprüfbar sein, um als wissenschaftlich zu gelten.
 -->
 ---
 ## Reliabilität
+<!--Wesentlicher Schritt in der wissenschaftlichen Forschung-->
 - Bezieht sich auf Zuverlässigkeit und Stabilität von Messungen oder Beobachtungen
 - Sichert stabile und verlässliche wissenschaftliche Daten
 - Reliabel betrachtete methoden bringen Vertrauen
 <!--
-Bezieht sich auf Zuverlässigkeit und Stabilität von Messungen oder Beobachtungen
-Sichert stabile und verlässliche wissenschaftliche Daten
-Reliabel betrachtete methoden bringen Vertrauen
 Vergleichbare Resultate bei wiederholten Messungen
-Wesentlicher Schritt in der wissenschaftlichen Forschung
 -->
 ---
 ## Validierung
 - Bezieht sich darauf
-  - Ob ein Experiment das misst, was es wirklich soll
+  - Ob ein Experiment das misst, was es wirklich soll <!--Mit anderen Worten, prüft es die Genauigkeit und Richtigkeit einer Messung-->
 - Liefert Ergebnisse 
 - Wenn nicht valide -> beeinträchtigt Galubwürdigkeit & Aussagekraft
+  <!--Eine valide Methode liefert Ergebnisse, die wirklich das erfassen, was der Forscher zu untersuchen beabsichtigt-->
 
 <!-- 
-Eine Validierung bezieht sich darauf, ob eine Methode bzw. ein Experiment das misst, was es auch wirklich messen soll. Mit anderen Worten, es prüft die Genauigkeit und Richtigkeit einer Messung oder eines Tests. 
-Eine valide Methode liefert Ergebnisse, die wirklich das erfassen, was der Forscher zu untersuchen beabsichtigt, und nicht etwas anderes.
-
-Die Validierung ist von entscheidender Bedeutung, um sicherzustellen, dass die gewonnenen Daten zuverlässig sind und korrekte Schlussfolgerungen ermöglichen. Wenn eine Methode nicht valide ist, könnten die Ergebnisse verzerrt oder ungenau sein, was die Glaubwürdigkeit und Aussagekraft der wissenschaftlichen Arbeit beeinträchtigen würde. Daher ist die Überprüfung und Dokumentation der Validität ein wesentlicher Bestandteil der guten wissenschaftlichen Praxis.
+Zusammengefasst Validierung ist von entscheidender Bedeutung -> sicherzustellen, gewonnenen Daten zuverlässig sind um eine korrekte Schlussfolgerungen zu ermöglichen. Ansonsten Glaubwürdigkeit und Aussagekraft beeinträchtigen werden.
 -->
 ---
 ## Logische Argumentation
-- Folgerichtiges denken
-- Argumente ausreichend begründen & korrekte Schlussfolgerung
+- Folgerichtiges denken <!--weil was im ersten Moment logisch klingt, muss nicht logisch sein.-->
+- Argumente ausreichend begründen<!--um korrekte Schlussfolgerungen zu ermöglichen-->
 
-<!-- 
-Bedeutet: folgerichtig zu denken, die eigenen Argumente ausreichend zu begründen und korrekte Schlussfolgerungen zu ziehen. Durch die Überprüfung der
-Argumente gelingt es, Fehlschlüsse zu erkennen.
-Wenn man w. Arbeit schreibt: aussagekräftige und überprüfbare Gründe für Argumente anführen. 
-Jedoch Vorsicht: Was im ersten Moment logisch klingt, muss nicht logisch sein.
--->
 ---
 ## Verantwortung
-- Wissenschaftler tragen Verantwortung für die Arbeit 
+- Wissenschaftler tragen Verantwortung für ihre Arbeit <!--Vermeidung von fahrlässigen Fehlern und bewussten Täuschungen-->
 - Manipulierte Daten können andere Forscher beeinträchtigen
 - Warnen vor möglichen nicht korrekter Ergebnisse
 <!-- 
-Wissenschaftler tragen Verantwortung für ihre Arbeiten
-Vermeidung von fahrlässigen Fehlern und bewussten Täuschungen
 Schäden durch Fehler und Manipulationen:
-Wochenlange Prüfungen zur Aufdeckung von Fehlern
-Zeitverschwendung für andere, die auf erfundenen Daten aufbauen
-Folgeschäden:
-Abhängig von der Nutzung manipulierter Ergebnisse
+- Prüfungen zur Aufdeckung von Fehlern -> Zeitverschwendung für andere
+- andere Abhängig von Ergebnissen
 Warnung vor möglichen Konsequenzen
 Konsequenzen:
-Einzelne und Teams werden zur Verantwortung gezogen
 Aberkennung von Abschlusszertifikaten, Auszeichnungen und Doktortiteln
-Korrekte Erkenntnisse:
-Bewusstsein für positive Auswirkungen korrekter Forschungsergebnisse
-Verpflichtung zur rechtzeitigen Warnung vor möglichen Gefahren
 -->
 ---
 

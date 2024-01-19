@@ -7,6 +7,7 @@ paginate: true
 marp: true
 size: 4K
 ---
+
 # NWP-Nachhaltigkeit-Qualität-Ethik
 
 Mayerhuber | Schlager | Stenz
@@ -19,42 +20,66 @@ h1 {
 </style>
 
 ---
+## Inhalt
+- Nachhaltigkeit (Ausarbeitung: Lukas Mayerhuber)
+- Qualitätskritärien (Ausarbeitung: Jakob Schlager)
+- Ethik u. Integrität (Ausarbeitung: Michael Stenz)
+
+---
 
 ## Nachhaltigkeit Allgemein
 
-- **Nachhaltigkeit** ist ein Handlungsprinzip zur Ressourcen-Nutzung, bei dem die Bewahrung der wesentlichen Eigenschaften, der Stabilität und der natürlichen Regenerationsfähigkeit des jeweiligen Systems im Vordergrund steht.
+- **Nachhaltigkeit** ist ein Handlungsprinzip zur Ressourcen-Nutzung, bei dem die Bewahrung der wesentlichen
+  Eigenschaften, der Stabilität und der natürlichen Regenerationsfähigkeit des jeweiligen Systems im Vordergrund steht.
 
+<!-- Nachhaltigkeit ist wenn man Resourcen so nutzt, dass sich das schnell genug wieder herstellen kann. Bzw damit es nicht zu stark beeiflusst wird -->
 - **Beispiele**:
-  - **Mehrweg statt PET** <!--es wird weniger Plastik verwendet und somit weniger Müll produziert -
-  - **PV-Strom** <!--Strom aus erneuerbaren Energien ist nachhaltiger als Strom aus fossilen Energieträgern -->
-  - **Second Hand** <!--Kleidung aus Second Hand Läden ist nachhaltiger als neue Kleidung und Fast Fashion-->
+    - **Mehrweg statt PET** <!--es wird weniger Plastik verwendet und somit weniger Müll produziert -->
+    - **PV-Strom** <!--Strom aus erneuerbaren Energien ist nachhaltiger als Strom aus fossilen Energieträgern -->
+    - **Wiederverwendung** <!--Kleidung aus Second Hand Läden ist nachhaltiger als neue Kleidung und Fast Fashion-->
+
 
 ---
 
 ## Nachhaltigkeit in der Wissenschaft
 
-- **Nachhaltigkeit** in der Wissenschaft bedeutet, dass die Forschung und Entwicklung von Technologien und Produkten so gestaltet wird, dass sie die Umwelt und die Gesellschaft nicht schädigt.
+- **Nachhaltigkeit** in der Wissenschaft bedeutet, dass die Forschung und Entwicklung von Technologien und Produkten so
+  gestaltet wird, dass sie die Umwelt und die Gesellschaft nicht schädigt.
 
 - **Projekte**:
-  - **KuRT** <!--KuRT steht für Ressourceneffiziente Kreislaufwirtschaft und befassen sich mit Kunststoffrecyclingtechnologien wie Sotierlösungen, verbesserte Sammlung und Logistik und die Erhöhung der Umweltverträglichkeit der Verfahren -->
-  - **SUSFERT** <!--Nachhaltige Düngemittel aus Klärschlammasche und Abfallprodukten von Bioraffinerien-->
-  - **GNoME** <!-- Ist eine Google Ai die neue Cristal Strukturen generiert. Hat bis jetzt 2.2 neue Strukturen gefunden (380.000 sind stabil). Mensch und Computer haben insgesamt 68.000 stabile Strukturen gefunden -->
+    - **KuRT**
+      <!--KuRT steht für Ressourceneffiziente Kreislaufwirtschaft und befassen sich mit Kunststoffrecyclingtechnologien wie Sotierlösungen, verbesserte Sammlung und Logistik und die Erhöhung der Umweltverträglichkeit der Verfahren -->
+    - **SUSFERT** <!--Nachhaltige Düngemittel aus Klärschlammasche und Abfallprodukten von Bioraffinerien-->
+    - **GNoME**
+      <!-- Ist eine Google Ai die neue Cristal Strukturen generiert. Hat bis jetzt 2.2 neue Strukturen gefunden (380.000 sind stabil). Mensch und Computer haben insgesamt 68.000 stabile Strukturen gefunden -->
+
+---
+## Nachhaltigkeit in der Forschung
+Forschung benötigt viele Resourcen
+#### Raumfahrt
+- 155 T flüssiges Kerosins
+- 362 T flüssiger Sauerstoff
+
+Unnötige Reisen vermeiden
 
 ---
 
 ## Qualitätskriterien des wissenschaftlichen arbeitens
+
 ![bg top 35%](./img/qualitaetskriterien.jpg)
 
 ---
+
 ## Objektivität
+
 - Definition
-  - Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.
+    - Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung
+      beteiligt sind.
 
 - So gut wie möglich:
-  - persönliche Meinung,
-  - Gefühle &
-  - Voreingenommenheit vermeiden
-
+    - persönliche Meinung vermeiden,
+    - Gefühle vermeiden,
+    - Voreingenommenheit vermeiden
 
 <!--Objektivität, die folgendermaßen definiert ist:
  **Das Gütekriterium Objektivität bezeichnet die Unabhängigkeit der Ergebnisse von den Personen, die bei der Ergebniserstellung beteiligt sind.**
@@ -64,7 +89,9 @@ In der Wissenschaft bezieht sich die "Objektivität" darauf, dass Forscher versu
 Um das zu erreichen, verwenden Wissenschaftler strenge Methoden, klare Protokolle und versuchen, ihre Forschung so zu gestalten, dass andere unabhängige Forscher zu ähnlichen Ergebnissen gelangen könnten. Durch die Anwendung von objektiven Standards und Messungen wird versucht, eine gewisse Neutralität und Zuverlässigkeit in der wissenschaftlichen Erkenntnis zu erhalten.
 -->
 ---
+
 ## Nachvollziehbarkeit
+
 - Klar beschriebene methodische Vorgehensweise
 - Andere müssen wissenschaftliche Aussagen nachvollziehen können
 - Ermöglicht Verständnis und angemessene Bewertungen
@@ -77,11 +104,13 @@ beschrieben werden, um für den Leser nachvollziehbar und überprüfbar zu sein.
 Das ist wichtig, denn andere müssen auf dem gleichen Weg zu den gleichen wissenschaftlichen Aussagen kommen.
 -->
 ---
+
 ## Verständlichkeit
+
 - Ermöglicht Lesen, Verstehen und Überprüfen
 - Inhaltliche Struktur:
-  - Klarer "roter Faden"
-  - Aufwerfen und zielführende Bearbeitung einer Fragestellung
+    - Klarer "roter Faden"
+    - Aufwerfen und zielführende Bearbeitung einer Fragestellung
 
 <!--
     Verständlichkeit:
@@ -103,9 +132,11 @@ Das ist wichtig, denn andere müssen auf dem gleichen Weg zu den gleichen wissen
         Literaturverzeichnis
         Gütekriterium "Verständlichkeit" beachten-->
 ---
+
 ## Überprüfbarkeit
+
 - Essenzielles Element wissenschaftlicher Arbeit
-- Begründen von Hypothesen 
+- Begründen von Hypothesen
 - Klare, wissenschaftliche Gründe für Vorgehen
 - Datenangaben
 
@@ -120,10 +151,13 @@ Wichtigkeit der Überprüfbarkeit:
 Jedes Ergebnis muss überprüfbar sein, um als wissenschaftlich zu gelten.
 -->
 ---
+
 ## Reliabilität
+
 - Bezieht sich auf Zuverlässigkeit und Stabilität von Messungen oder Beobachtungen
 - Sichert stabile und verlässliche wissenschaftliche Daten
 - Reliabel betrachtete methoden bringen Vertrauen
+
 <!--
 Bezieht sich auf Zuverlässigkeit und Stabilität von Messungen oder Beobachtungen
 Sichert stabile und verlässliche wissenschaftliche Daten
@@ -132,10 +166,12 @@ Vergleichbare Resultate bei wiederholten Messungen
 Wesentlicher Schritt in der wissenschaftlichen Forschung
 -->
 ---
+
 ## Validierung
+
 - Bezieht sich darauf
-  - Ob ein Experiment das misst, was es wirklich soll
-- Liefert Ergebnisse 
+    - Ob ein Experiment das misst, was es wirklich soll
+- Liefert Ergebnisse
 - Wenn nicht valide -> beeinträchtigt Galubwürdigkeit & Aussagekraft
 
 <!-- 
@@ -145,7 +181,9 @@ Eine valide Methode liefert Ergebnisse, die wirklich das erfassen, was der Forsc
 Die Validierung ist von entscheidender Bedeutung, um sicherzustellen, dass die gewonnenen Daten zuverlässig sind und korrekte Schlussfolgerungen ermöglichen. Wenn eine Methode nicht valide ist, könnten die Ergebnisse verzerrt oder ungenau sein, was die Glaubwürdigkeit und Aussagekraft der wissenschaftlichen Arbeit beeinträchtigen würde. Daher ist die Überprüfung und Dokumentation der Validität ein wesentlicher Bestandteil der guten wissenschaftlichen Praxis.
 -->
 ---
+
 ## Logische Argumentation
+
 - Folgerichtiges denken
 - Argumente ausreichend begründen & korrekte Schlussfolgerung
 
@@ -156,10 +194,13 @@ Wenn man w. Arbeit schreibt: aussagekräftige und überprüfbare Gründe für Ar
 Jedoch Vorsicht: Was im ersten Moment logisch klingt, muss nicht logisch sein.
 -->
 ---
+
 ## Verantwortung
-- Wissenschaftler tragen Verantwortung für die Arbeit 
+
+- Wissenschaftler tragen Verantwortung für die Arbeit
 - Manipulierte Daten können andere Forscher beeinträchtigen
 - Warnen vor möglichen nicht korrekter Ergebnisse
+
 <!-- 
 Wissenschaftler tragen Verantwortung für ihre Arbeiten
 Vermeidung von fahrlässigen Fehlern und bewussten Täuschungen
@@ -182,11 +223,11 @@ Verpflichtung zur rechtzeitigen Warnung vor möglichen Gefahren
 
 - Intigrität
 
-  - Themen wie Verlässlichkeit, Ehrlichkeit in der Forschung
-    <br>
+    - Themen wie Verlässlichkeit, Ehrlichkeit in der Forschung
+      <br>
 
 - Ethik
-  - Ethik über Auswirkung auf die Allgemeinheit
+    - Ethik über Auswirkung auf die Allgemeinheit
 
 ---
 
@@ -194,18 +235,18 @@ Verpflichtung zur rechtzeitigen Warnung vor möglichen Gefahren
 
 - **Zuverlässigkeit (Reliability)**
 
-  - Qualität der Arbeit
+    - Qualität der Arbeit
 
 - **Ehrlichkeit (Honesty)**
 
-  - Transparenz, Verlässliche Quellen
+    - Transparenz, Verlässliche Quellen
 
 - **Respekt (Respect)**
 
-  - für andere Arbeiten/Forscher
+    - für andere Arbeiten/Forscher
 
 - **Verantwortlichkeit (Accountability)**
-  - für Entwicklung bis Auswirkungen
+    - für Entwicklung bis Auswirkungen
 
 ---
 
@@ -215,14 +256,14 @@ Zum Schutz von dritter (Menschen, Tiere, Umwelt, un-belebte Natur)
 
 - **Autonomieprinzip**
 
-  - Einwilligung für Teilnahme bei Studien
+    - Einwilligung für Teilnahme bei Studien
 
 - **Nichtschadensprinzip**
 
-  - Schaden ausgehend von Forschung vermindern
+    - Schaden ausgehend von Forschung vermindern
 
 - **Gerechtigkeit**
-  - Einschätzung wem die Forschung zugute kommt
+    - Einschätzung wem die Forschung zugute kommt
 
 <!--nicht rechtlich verstärkt, wegen der Wissenschaftsfreiheit-->
 
@@ -263,9 +304,8 @@ Wurde von UNESCO verboten
 Dual-Use Dilemma
 
 - z.B Vieren: Impfstoffe -> Biologische Waffen
-- AI: Missbrauch durch Spionage in Diktaturen (Gesichtserkennung)...
 
-Verhinder:
+Verhindern:
 
 - Zugriff der Puplikation einschränken
 - Meinung von anderen Experten
@@ -296,7 +336,8 @@ Neues verfahren durch Separation of isotopes by laser excitation (SILEX)
 
 ### Chemie
 
-Haber-Bosch Prozess um Ammoniak (-> Nitrogen Dünger) im industriellen Maß herzustellen um großen Nahrungsbedarf zu decken. (1913)
+Haber-Bosch Prozess um Ammoniak (-> Nitrogen Dünger) im industriellen Maß herzustellen um großen Nahrungsbedarf zu
+decken. (1913)
 Ammoniak kann auch zur Herstellung von TNT u. Schwarzpulver verwendet werden.
 Ammoniak fabriken wurde im WW2 von Deutschland für TNT verwendet.
 
@@ -311,3 +352,55 @@ Herstellung von Dynamit für bergbau
 
 Missbrauch im Krieg!
 ![bg right 85%](./img/dynamit.jpg)
+
+---
+## Quellen (Qualitätskritärien)
+
+https://soztheo.de/forschung/qualitaetskriterien-fuer-wissenschaftliches-arbeiten/#qualitaetskriterium_objektivitaet
+https://wpgs.de/fachtexte/ergebnisinterpretation/objektivitaet-als-guetekriterium/#Definition_von_Objektivitaet
+https://www.apollon-hochschulverlag.de/wp-content/uploads/2018/10/Leseprobe_MB06_DettmannBense.pdf
+https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_Überprüfbarkeit.pdf
+https://www.uni-koeln.de/phil-fak/storyline2/story_content/external_files/Handout_Überprüfbarkeit.pdf
+https://studyflix.de/statistik/reliabilitat-1515
+https://www.static.tu.berlin/fileadmin/www/10002431/PDF_Studium_Lehre/Qualitaetskriterien_wissenschaftliche_Arbeiten_.pdf
+https://www.wiwi.europa-uni.de/de/lehrstuhl/mm/ima/_pdf/Leitfaden-Abschlussarbeiten-LS-IMA_Stand-18_4.pdf
+
+<style scoped>
+p {
+  font-size: 0.7rem;
+}
+</style>
+
+---
+
+## Quellen (Ethik und Integrität)
+https://forschungsservice.univie.ac.at/fileadmin/user_upload/d_forschungsservice/Formulare_Info_Stipendien/Praxisleitfaden_fuer_Integritaet_und_Ethik_in_der_Wissenschaft_Stand_29-9-2020_Final.pdf
+https://www.ria.ie/sites/default/files/allea_-_european_code_of_conduct_for_research_integrity_2017_0.pdf
+https://de.wikipedia.org/wiki/Wissenschaftsethik
+https://www.genome.gov/about-genomics/policy-issues/Genome-Editing/ethical-concerns
+https://www.nuffieldbioethics.org/wp-content/uploads/Report-regulation-GEHR-for-web.pdf
+https://www.uni-kassel.de/upress/online/frei/978-3-89958-043-3.volltext.frei.pdf
+https://www.parliament.uk/globalassets/documents/post/postpn340.pdf
+https://de.wikipedia.org/wiki/Alfred_Nobel#Entwicklung_der_sicheren_Zündung_von_Nitroglycerin
+https://de.wikipedia.org/wiki/Haber-Bosch-Verfahren
+https://www.ria.ie/sites/default/files/allea_-_european_code_of_conduct_for_research_integrity_2017_0.pdf
+
+<style scoped>
+p {
+  font-size: 0.7rem;
+}
+</style>
+
+---
+
+# Danke für eure Aufmerksamkeit
+
+https://github.com/Stenz123/nwp-presentation-sustainability_quality_sience
+
+<style scoped>
+h1 {
+  padding-top: 1.5em;
+  font-size: 3rem;
+  text-align: center;
+}
+</style>
